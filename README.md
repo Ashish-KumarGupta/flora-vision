@@ -26,7 +26,7 @@ JavaScript
 # Setup & Run Instructions.
 
 1. Clone the Repository
-git clone https://github.com/your-username/flora-vision.git
+git clone https://github.com/Ashish-KumarGupta/flora-vision.git
 2. Move to Project Folder
 cd flora-vision
 3. Install Dependencies
